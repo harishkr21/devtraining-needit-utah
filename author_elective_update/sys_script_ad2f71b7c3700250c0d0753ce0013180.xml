@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_58872_needit_needit</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Email Address Syntax Validate</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script/>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:08:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad2f71b7c3700250c0d0753ce0013180</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Email Address Syntax Validate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_ad2f71b7c3700250c0d0753ce0013180</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:16:50</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=ad2f71b7c3700250c0d0753ce0013180"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3c6a1fffdb518110f37acac5059619f9</instance_id>
+        <instance_name>dev124534</instance_name>
+        <name>sys_script_ad2f71b7c3700250c0d0753ce0013180</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script"><sys_script action="INSERT_OR_UPDATE"><abort_action>false</abort_action><access>package_private</access><action_delete>false</action_delete><action_insert>true</action_insert><action_query>false</action_query><action_update>true</action_update><active>true</active><add_message>false</add_message><advanced>true</advanced><change_fields>false</change_fields><client_callable>false</client_callable><collection>x_58872_needit_needit</collection><condition/><description/><execute_function>false</execute_function><filter_condition/><is_rest>false</is_rest><message/><name>Email Address Syntax Validate</name><order>100</order><priority>100</priority><rest_method/><rest_method_text/><rest_service/><rest_service_text/><rest_variables/><role_conditions/><script/><sys_class_name>sys_script</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-14 12:08:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ad2f71b7c3700250c0d0753ce0013180</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Email Address Syntax Validate</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_script_ad2f71b7c3700250c0d0753ce0013180</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-14 12:16:50</sys_updated_on><template/><when>before</when></sys_script><sys_translated_text action="delete_multiple" query="documentkey=ad2f71b7c3700250c0d0753ce0013180"/></record_update>]]></payload>
+        <payload_hash>-780083761</payload_hash>
+        <record_name>Email Address Syntax Validate</record_name>
+        <reverted_from/>
+        <source>edea7965c3fc0610c0d0753ce00131a1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:16:50</sys_created_on>
+        <sys_id>1e410ab7c3700250c0d0753ce00131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e3ce4c9bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:16:50</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>12410ab7a7700250811e0b2e819228ed</update_guid>
+        <update_guid_history>12410ab7a7700250811e0b2e819228ed:-780083761,316fb5b7d5700250373faf4b5a7b1c90:-1332644805,a95fb13322700250e5fe79826d7d1d39:1808591340</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 12:23:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>1d6caf6d0ae149c1929a8d7b87b93a61</sys_id>
+        <sys_metadata>ad2f71b7c3700250c0d0753ce0013180</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Email Address Syntax Validate</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">82d05661c3704610c0d0753ce0013156</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_script_ad2f71b7c3700250c0d0753ce0013180</sys_update_name>
+        <sys_update_version display_value="sys_script_ad2f71b7c3700250c0d0753ce0013180">1e410ab7c3700250c0d0753ce00131ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 12:23:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
